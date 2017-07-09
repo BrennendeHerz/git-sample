@@ -1,5 +1,2 @@
 it's new line 678678
 kjhk
-
-
-some text in worng commit
